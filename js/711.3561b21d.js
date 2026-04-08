@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkxssc"]=self["webpackChunkxssc"]||[]).push([[711],{5711:function(t,s,r){r.r(s),r.d(s,{default:function(){return l}});var a=function(){var t=this,s=t._self._c;return s("div",[s("iframe",{staticClass:"pdf-iframe",attrs:{src:t.pdfPath}})])},e=[],f={data(){return{pdfPath:"https://color29.com/pdf/SGC_Web.pdf"}}},n=f,u=r(1001),c=(0,u.Z)(n,a,e,!1,null,null,null),l=c.exports}}]);
+//# sourceMappingURL=711.3561b21d.js.map
